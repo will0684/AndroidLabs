@@ -3,4 +3,9 @@
     <string name="app_name">Labos Android</string>
     <string name="hello_message">Hola Mundo!</string>
     <string name="ButtonText">Soy Button</string>
+    <string name="login_text">Login</string>
+    <string name="password_text">Clave</string>
+    <string name="radio_button">Radio Button</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="what_do">Que hace eso?</string>
 </resources>
