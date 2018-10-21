@@ -3,4 +3,6 @@
     <string name="app_name">Labos Android</string>
     <string name="hello_message">Hola Mundo!</string>
     <string name="ButtonText">Soy Button</string>
+    <string name="StartChat">Start Chat</string>
+    <string name="send_button">Send</string>
 </resources>

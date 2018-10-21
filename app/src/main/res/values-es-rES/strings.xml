@@ -8,4 +8,6 @@
     <string name="radio_button">Radio Button</string>
     <string name="checkbox">Checkbox</string>
     <string name="what_do">Que hace eso?</string>
+    <string name="StartChat">Start Chat</string>
+    <string name="send_button">Send</string>
 </resources>
